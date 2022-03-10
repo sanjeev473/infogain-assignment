@@ -1,0 +1,21 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "name": "sanjeev gupta"
+    },
+    {
+      "id": 2,
+      "name": "srinivasan venkudda"
+    },
+    {
+      "id": 3,
+      "name": "ramesh sipppi"
+    },
+    {
+      "id": 4,
+      "name": "vk balakrishnan"
+    }
+  ],
+  "purchase": []
+}
