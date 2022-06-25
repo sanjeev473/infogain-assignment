@@ -17,5 +17,27 @@
       "name": "vk balakrishnan"
     }
   ],
-  "purchase": []
+  "purchase": [
+    {
+      "customerId": 1,
+      "purchased": 100,
+      "rewards": 0,
+      "date": "Sat Jun 25 2022 10:05:05 GMT+0530 (India Standard Time)",
+      "id": 1
+    },
+    {
+      "customerId": 1,
+      "purchased": 500,
+      "rewards": 850,
+      "date": "Sat Jun 25 2022 10:05:36 GMT+0530 (India Standard Time)",
+      "id": 2
+    },
+    {
+      "customerId": 1,
+      "purchased": 400,
+      "rewards": 650,
+      "date": "Sat Jun 25 2022 10:05:46 GMT+0530 (India Standard Time)",
+      "id": 3
+    }
+  ]
 }

@@ -9,7 +9,7 @@ export const CustomerProvider = ({ children }) => {
         fetchCustomer()
     }, [])
 
-    // Fetch customer
+    // Fetch customer from JSON DB
     const fetchCustomer = async () => {
         const response = await fetch(`/customer?_embed=purchase`)
         const data = await response.json();
