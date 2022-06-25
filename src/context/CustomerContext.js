@@ -9,7 +9,7 @@ export const CustomerProvider = ({ children }) => {
         fetchCustomer()
     }, [])
 
-    // Fetch customer 1
+    // Fetch customer
     // Fetch customer 2
     const fetchCustomer = async () => {
         const response = await fetch(`/customer?_embed=purchase`)
